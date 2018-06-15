@@ -1,0 +1,60 @@
+## Laravel specific rules
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+database.sqlite
+public/uploads
+
+######################
+## OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+######################
+## Idea (phpstorm) specific git ignore
+.idea
+
+## Visual studio Code specific git ignore
+.vscode
+
+## eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.buildpath
+*.launch
+
+coverage/
+/.env
+/coverage/
+/node_modules/
+/public/uploads/avatars/
+public/uploads/avatars/1523967241.jpg
+public/uploads/avatars/1523967277.png
+1523967241.jpg
+1523967277.png
+*.crt
