@@ -1,5 +1,5 @@
 ## Project description
-<p align="center">We have to create a website where you are able to view assets and see if those assets will be working when a dike collapses. http://vitale-assets.herokuapp.com/. This project is currently in progress. The current project is being built in a private repository. I do not want to make this public, since there might be sensitive data, but it is really worth a share.</p>
+<p align="center">We have to create a website where you are able to view assets and see if those assets will be working when a dike collapses. This project is currently in progress. The current project is being built in a private repository. I do not want to make this public, since there might be sensitive data, but it is really worth a share.</p>
 
 ## Scrum
 <p align="center">We are currently working in weeks of 4, with almost every day a daily standup.</p>
